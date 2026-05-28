@@ -4,10 +4,6 @@
 
 **AI Student @ Singapore Institute of Technology**  
 Building real-world Computer Vision & AI systems — from Edge AI on embedded hardware to AR/VR inference on Meta Quest 3.
-
-#[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soh-shi-wei)
-#[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SohShiWei)
-
 </div>
 
 ---
