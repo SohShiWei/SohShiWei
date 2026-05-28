@@ -5,8 +5,8 @@
 **AI Student @ Singapore Institute of Technology**  
 Building real-world Computer Vision & AI systems — from Edge AI on embedded hardware to AR/VR inference on Meta Quest 3.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soh-shi-wei)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SohShiWei)
+#[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soh-shi-wei)
+#[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SohShiWei)
 
 </div>
 
@@ -86,17 +86,6 @@ Part of a broader system with stereo depth estimation, a React analytics dashboa
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shi Wei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohShiWei&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohShiWei&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 ---
 
 ## 📌 What I'm Working On
